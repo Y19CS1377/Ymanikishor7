@@ -1,0 +1,5 @@
+#iniclide<stdio.h>
+void main()
+{
+    printf("Welcome to chalapathi");
+}
